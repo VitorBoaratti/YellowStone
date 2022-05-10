@@ -88,7 +88,7 @@ table caption {
 }
 
 .main-bg {
-    background-image: url('../img/main.svg');
+    background-image: url('../img/Main.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white-color);
