@@ -88,7 +88,7 @@ table caption {
 }
 
 .main-bg {
-    background-image: url('assets/css/img/main.svg');
+    background-image: url('YellowStone/assets/css/img/main.svg');
     background-size: cover;
     background-position: center center;
     color: var(--white-color);
